@@ -15,7 +15,7 @@ The application is **containerized with Docker**, allowing multiple instances of
 - Scales horizontally by running multiple service instances  
 - Demonstrates Kafka’s consumer group and partitioning behavior  
 - Uses **Java 21 virtual threads** for lightweight concurrency  
-- Achieved **100,000 likes in a single request** using virtual threads .
+- Achieved **100,000 likes in a single request** using virtual threads
 
 ---
 
