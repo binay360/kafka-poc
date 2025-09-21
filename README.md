@@ -15,7 +15,7 @@ The application is **containerized with Docker**, allowing multiple instances of
 - Scales horizontally by running multiple service instances  
 - Demonstrates Kafka’s consumer group and partitioning behavior  
 - Uses **Java 21 virtual threads** for lightweight concurrency  
-- Achieved **100,000 likes in a single request** using virtual threads  
+- Achieved **100,000 likes in a single request** using virtual threads .
 
 ---
 
@@ -37,4 +37,4 @@ Working on this project helped me understand core **Kafka and concurrency concep
 - ✅ The importance of **horizontal scaling** and **load balancing** in event-driven systems  
 - ✅ Difference between **single-threading vs multithreading** in handling requests  
 - ✅ How **Java 21 virtual threads** simplify concurrency and improve scalability  
-- ✅ Handling **100k concurrent likes** smoothly with virtual threads  
+- ✅ Handling **100k concurrent likes** smoothly with virtual threads 
