@@ -4,7 +4,7 @@
 This project is a **Spring Boot microservice** that simulates managing "likes" on posts.  
 It integrates with **Apache Kafka** to produce and consume events in a distributed, scalable way.  
 
-The application is **containerized with Docker**, allowing multiple instances of the service to run simultaneously for load testing and Kafka exploration.  
+The application is **containerized with Docker**, allowing multiple instances of the service to run simultaneously for loads of testing and Kafka exploration.  
 
 ---
 
